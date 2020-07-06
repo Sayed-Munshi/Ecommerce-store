@@ -3,7 +3,7 @@
 }
 .orang-bg{
     background-color: #fceae8;
-    border-radius: 10px;
+    border-radius: 15px;
 }
 
 .carousel-item{
@@ -21,4 +21,46 @@
     border-radius: 8px;
     padding: 9px 25px;
     cursor: pointer;
+}
+
+.wat1{
+    background-color: orange;
+    padding: 15px 30px;
+    border-radius: 15px;
+}
+.bag2{
+    background-color: pink;
+    padding: 15px 30px;
+    border-radius: 15px;
+}
+.sho3{
+    background-color: blue;
+    padding: 15px 30px;
+    border-radius: 15px;
+}
+
+.categories h1{
+    color: white;
+}
+
+.categories img{
+    width: 100px;
+}
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+
+.card-footer{
+    background-color: white;
+    border-top: none;
+}
+
+#contact{
+    height: 300px;
+}
+
+footer{
+    text-align: center;
 }
